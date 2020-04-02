@@ -3,4 +3,4 @@ php:
   - 7.3
 install:
   - composer install
-script: .\vendor\bin\phpunit .\Tests.php
+script: ./vendor/bin/phpunit ./Tests.php
