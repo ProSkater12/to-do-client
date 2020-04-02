@@ -1,8 +1,8 @@
-<?php
-    require_once 'PHPUnit/Framework.php';
+<?php declare(strict_types=1);
+    use PHPUnit\Framework\TestCase;
     require_once 'index.php';
 
-    class MyClassTest extends PHPUnit_Framework_TestCase {
+    final class Tests extends TestCase {
         public function testPower()
         {
             $my = new MyClass();
