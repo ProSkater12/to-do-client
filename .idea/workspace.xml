@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585804942383</updated>
-      <workItem from="1585804943567" duration="2545000" />
+      <workItem from="1585804943567" duration="3155000" />
     </task>
     <servers />
   </component>
@@ -81,6 +81,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585809317287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585809317287" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1585804962301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
