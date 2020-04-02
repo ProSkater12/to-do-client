@@ -1,4 +1,6 @@
 language: php
 php:
   - 7.1.9
-script: php Tests.php
+install:
+  - composer install
+script: .\vendor\bin\phpunit .\Tests.php
