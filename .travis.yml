@@ -2,5 +2,5 @@ language: php
 php:
   - 7.1.9
 install:
-  - composer install
+  - composer update
 script: .\vendor\bin\phpunit .\Tests.php
