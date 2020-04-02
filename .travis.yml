@@ -2,6 +2,8 @@ sudo: true
 language: php
 php:
   - 7.3
+before_install:
+  - chmod +x Tests.php
 install:
   - composer install
 script: ./vendor/bin/phpunit ./Tests.php
